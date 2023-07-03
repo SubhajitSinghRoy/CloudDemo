@@ -1,0 +1,6 @@
+.classpath
+test-output/
+target/
+*.png
+.project
+.settings/
